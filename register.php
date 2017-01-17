@@ -12,10 +12,17 @@
 					<div class="well">
 						<form method="GET" action="welcome.php"
 							class="form-horizontal">
-
+							<div class="form-group">
+								<label class="control-label">
+									Student ID
+								</label>
+								<input type="text" name="sid"
+									lass="form-horizontal" required />
+							</div>
 						</form>
 					</div>
-				</div>
+			</div>
+		</div>
 
 	</body>
 
