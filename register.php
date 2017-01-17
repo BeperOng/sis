@@ -16,7 +16,7 @@
 	$emailAddress = "";
 	$password = "";
 	$birthdate = null;
-	
+
 ?>
 
 <html>
@@ -116,6 +116,15 @@
 
 								</div>
 	
+							</div>
+							<div class="form-group">
+								<div class="col-lg-offset-4 col-lg-8">
+									<button name="register" 
+										class="btn btn-success">
+										Register NIGGUH!
+									</button>
+								</div>
+
 							</div>
 						</form>
 					</div>
