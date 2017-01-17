@@ -1,4 +1,24 @@
 <!DOCTYPE html>
+
+
+<?php
+	# Write you comment
+	// other comment
+
+	/*
+		Comment with many line
+
+	*/
+
+	$studentNo = "";
+	$lastName = "";
+	$firstName = "";
+	$emailAddress = "";
+	$password = "";
+	$birthdate = null;
+	
+?>
+
 <html>
 	<head>
 		<title>Student Registration </title>
